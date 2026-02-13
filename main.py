@@ -14,6 +14,7 @@ print(type(age))
 a = 10
 b = 3
 
+
 print(a + b)  # sudėtis
 print(a - b)  # atimtis
 print(a * b)  # daugyba
